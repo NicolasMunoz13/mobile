@@ -1,0 +1,9 @@
+{
+  "deviceName": "Pixel XL API 30",
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "appPackage": "com.trivago",
+  "appActivity": "com.trivago.ft.main.frontend.MainActivity",
+  "app": "C:\\Users\\juannicolas.munoz\\Documents\\Web-Mobile Autom\\Mobile Automation\\Trivago\\trivago.apk",
+  "automationName": "UiAutomator2"
+}

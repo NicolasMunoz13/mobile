@@ -1,0 +1,7 @@
+owner: appium
+repo: appium-inspector
+provider: github
+vPrefixedTagName: true
+updaterCacheDirName: appium-inspector-updater
+publisherName:
+  - 'Developer ID Application: JSFoundation, Inc (G58F7ZX4UL)'

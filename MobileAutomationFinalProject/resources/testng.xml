@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Mobile Testing">
+    <parameter name="country" value="Colombia"></parameter>
+    <parameter name="destination" value="Cartagena"></parameter>
+    <test name="First mobile testing project" preserve-order="true">
+        <classes>
+            <!--<class name="tests.DataPrivacyTest"></class>-->
+            <!--<class name="tests.SearchHotelTest"></class>-->
+            <!--<class name="tests.LandingViewTest"></class>-->
+            <class name="tests.ConfigurationTest"></class>
+        </classes>
+    </test>
+</suite>
